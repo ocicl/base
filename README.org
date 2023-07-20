@@ -1,0 +1,9 @@
+* base
+
+Universally useful Lisp code that lives in package com.google.base.
+
+|---------+---------------------------------------|
+| source  | git:https://github.com/brown/base.git |
+| commit  | e7a1233                               |
+| systems | com.google.base                       |
+|---------+---------------------------------------|
